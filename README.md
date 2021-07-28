@@ -1,14 +1,27 @@
-# rootinstinct
-## I do stuff with Game Development, Python and Web Dev.
-I do alot of stuff, I'm an aspiring developer that's working on multiple open source projects on Github. One of them being BetterTimetable, the project that keeps getting delayed because I suck at Python (god help me). I've got quite a bit experience in Web Development and I'm currently working on learning Game Development with UE4 :D
-## Projects:
-### BetterTimetable: :book:
-"**A simple Python program that helps you track your timetable. Initially this was just a small idea I had, but I've decided to scale it up a bit adding new features over the course of time. At it's current state it's extremely basic, and doesn't even track things, yet.**"
-### BoilingPoint: :fire:
-"**Boiling Point is a fast paced game that takes the smooth skill-based mechanics of an MMO and lets you experiment and customise it with it's own story and levels.**" (This is a work in progress that I haven't revealed and probably won't anytime soon. But I will, eventually.
-## What else do you do?
-I play Valorant, F1 and League. I am known to suck at all of those games. On top of that I like to just spend alot of my time learning how to make things. I also do because @Universal-Blaster-Studios told me that I can.
-## Some other stuff.
-**G2 Esports and Rekkles fanboy, I use VSCode, Visual Studio and PyCharm as Code Editors and I spend more time messing around in my repositorys than I do actually contributing to them :*)**
+# I spend more time editing readme.md than I do actually developing my projects.
+Welcome! I'm an aspiring developer that works on projects like `BTT`, of which, you might see that project is kind of... dead, at the moment, but I'll work on it *eventually*.
+## My Work:
+I have quite a bit of experience with Python (Of which I still suck at coding in Python) and happen to also do Graphic Design of which I think is improving quite well, specifically, I already have made some assets for `BTT and void{null}` which I think are relatively good but not quite what my *best* work.
+### BTT
+BetterTimetable has a weird history, it's been an evolving project that has been reworked, deleted, meme'd and remade. And now I've pulled the reset switch, and well, it's now back, kind of, still not done with the inital build even but it's still *there*
 
-> rootinstinct
+![image](https://user-images.githubusercontent.com/78747877/127306668-82693123-8d6c-4c3d-b85d-0ef270cc48a2.png)
+
+> Preview image for BTT
+
+![image](https://user-images.githubusercontent.com/78747877/127306807-7b71584a-8d0e-49c7-bb02-d2408d37ae93.png)
+
+> Concept image for BTT thumbnail
+### void{null}
+Not really directly development related, but I've made a podcast with a friend of mine, that being void{null} and of which I've produced some art assets for. I also host the podcast and write the script for it.
+
+![Screenshot from 2021-07-28 12-24-41](https://user-images.githubusercontent.com/78747877/127307278-c74f4ae0-b235-4c7e-bbcd-9bd2b8be0885.png)
+
+> Screenshot of the podcast (Graphics made by me)
+
+## My Hobbies:
+I am also an esports fanatic and an aspiring ADC, I kind of founded my own esports organization that isn't even completely ready yet but it's something I'm currently doing. Also possibly sim-racing enjoyer but I'm collecting the kit for it.
+## My Socials:
+- Twitter [https://twitter.com/instinctadc/]
+- YouTube [https://www.youtube.com/channel/UCSf5z2znVRRSgzI-LQizyxQ]
+
