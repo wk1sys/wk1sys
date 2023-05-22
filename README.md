@@ -1,1 +1,1 @@
-ＮＯＷ， ＷＥ ＬＥＡＲＮ．
+"why deosnt it worjkk;;" - Developer, probably.
